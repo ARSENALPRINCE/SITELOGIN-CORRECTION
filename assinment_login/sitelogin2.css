@@ -16,6 +16,7 @@ label{
     font-family:;
 }
 
+
 .bg{
     background-color: var(--Primary-color);
     height: 100%;
@@ -198,9 +199,11 @@ button:hover{
     color: white;
     border: none;
     text-shadow: 2px 2px #000;
+    ju
+    align-items: ;
 }
 
-/* @media screen and (max-width:520px) {
+/* @media screen and (maex-width:520px) {
     .sub-button button{
         padding: 10px 600px;
     } */

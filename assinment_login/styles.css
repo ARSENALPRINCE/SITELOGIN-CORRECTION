@@ -1,0 +1,19 @@
+body{
+
+}
+nav{
+    width: auto;
+    background-color: blue;
+    font-weight: 700;
+    color: #ffff;
+    padding: 30px 20px;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+li{
+    list-style: none;
+}
+
